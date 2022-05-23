@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 
 ![cmjeons github stats](https://github-readme-stats.vercel.app/api?username=cmjeon&show_icons=true&theme=merko)
 
-https://github.com/cmjeon/cmjeon/blob/main/Snake_Gif.svg
+<div>
+  <img alt="Snake Gif" src="https://github.com/cmjeon/cmjeon/blob/main/Snake_Gif.svg" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
+</div>
+
+
