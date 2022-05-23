@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![cmjeons github stats](https://github-readme-stats.vercel.app/api?username=cmjeon&show_icons=true&theme=merko)
+
+https://github.com/cmjeon/cmjeon/blob/main/Snake_Gif.svg
