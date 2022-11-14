@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<a href="http://www.github.com/cmjeon"><img src="https://activity-graph.herokuapp.com/graph?username=cmjeon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
