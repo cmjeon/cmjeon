@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 블로그
 
-[cmjeon.github.io]([https://](https://cmjeon.github.io/)
+[cmjeon.github.io](https://cmjeon.github.io/)
 
 ### 일정관리앱 DreamTodo
 
