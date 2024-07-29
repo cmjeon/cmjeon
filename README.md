@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [DreamTodo](https://apps.apple.com/kr/app/dreamtodo-%EB%93%9C%EB%A6%BC%ED%88%AC%EB%91%90/id1617527029)
 
 - node.js, express.js 백엔드 개발
+- 테이블 설계(제3정규형에 충족)
 - postgreSQL
 - mocha, jest, supertest 를 이용한 테스트케이스
 - apple, google 소셜인증
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 [XTradingApp](https://apps.apple.com/kr/app/xtradingapp/id6450615991)
 
 - SpringBoot 3.0, Java 17 백엔드 개발
+- 테이블 설계(제3정규형에 충족)
 - JPA, postgreSQL
 - Junit5, Mockito 를 이용한 테스트케이스
 - apple, google 소셜인증
