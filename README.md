@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - apple, google 소셜인증
 - JWT, Redis 를 활용한 토큰방식 인증체계
 - 네이버 뉴스, 통계청, 날씨, 연합뉴스, 코로나 API 연동
+- Jenkins, Docker 로 환경별 CI/CD 구축
 
 ### 금융 커뮤니티 앱 XTradingApp
 
@@ -50,3 +51,5 @@ Here are some ideas to get you started:
 - apple, google 소셜인증
 - JWT, Redis 를 활용한 토큰방식 인증체계
 - 업비트, 매일경제, 코인데스크, 코인텔레그래프 API 연동
+- Jenkins, Docker 로 환경별 CI/CD 구축
+- Prometheus, Grafana, Promtail, Loki 를 이용한 모니터링 시스템
