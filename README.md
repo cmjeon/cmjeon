@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [cmjeon.github.io](https://cmjeon.github.io/)
 
-### 일정관리앱 DreamTodo
+### 일정관리 앱 DreamTodo
 
 [DreamTodo](https://apps.apple.com/kr/app/dreamtodo-%EB%93%9C%EB%A6%BC%ED%88%AC%EB%91%90/id1617527029)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - JWT, Redis 를 활용한 토큰방식 인증체계
 - 네이버 뉴스, 통계청, 날씨, 연합뉴스, 코로나 API 연동
 
-### 코인 커뮤니티앱 XTradingApp
+### 금융 커뮤니티 앱 XTradingApp
 
 [XTradingApp](https://apps.apple.com/kr/app/xtradingapp/id6450615991)
 
