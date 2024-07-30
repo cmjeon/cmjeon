@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [cmjeon.github.io](https://cmjeon.github.io/)
 
-### 일정관리 앱 DreamTodo
+### 목표관리 및 공유 앱 DreamTodo
 
 [DreamTodo](https://apps.apple.com/kr/app/dreamtodo-%EB%93%9C%EB%A6%BC%ED%88%AC%EB%91%90/id1617527029)
 
