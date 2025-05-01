@@ -39,5 +39,7 @@ Here are some ideas to get you started:
 
 ### 질문과 독서 앱 Bookpunch
 
-[Bookpunch](https://apps.apple.com/in/app/bookpunch/id6739528036)
+[Apple AppStore](https://apps.apple.com/in/app/bookpunch/id6739528036)
+
+[Google PlayStore](https://play.google.com/store/apps/details?id=com.doldol.bookpunch)
 
